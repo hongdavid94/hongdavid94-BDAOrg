@@ -8,7 +8,7 @@ Student Status: 3rd year undergraduate
 
 Motivation:
 
-As an aspiring statistician, I became interested in taking classes outside of major to prepare myself to graduate school in statistics. I learned that biostaticians know Bayesian models.
+As an aspiring statistician, I became interested in taking classes outside of major to prepare myself for graduate school in statistics. I learned that biostaticians use Bayesian models so I am taking the course. I always enjoy learning new skills so it is exciting for me to use github or new course materials so I look forward for the class.
 
 Description of Data Analysis Problem:
 
