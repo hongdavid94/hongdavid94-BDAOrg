@@ -17,3 +17,6 @@ My career interest is centered around the role of statistical analysis in the re
 
 The image above is an example of data analysis to understand the efficacy of the drug (called ARISTADA or Aripiprazole Laurixil) varied by gender and dosage. In here, it shows that PANSS or Positive and Negative Syndrome Scale score decreased for schizophrenia patients in higher dose of the drug. The drug worked similarily to both genders.
 
+
+Source: US Food & Drug Administration - Drug Trials Snapshots: ARISTADA
+Link: https://www.fda.gov/Drugs/InformationOnDrugs/ucm469844.htm
